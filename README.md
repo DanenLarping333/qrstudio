@@ -1,6 +1,5 @@
 # QR Studio
-
-Link:Link: [Buka QR Studio](https://danenlarping333.github.io/qrstudio/)
+Link: [Buka QR Studio](https://danenlarping333.github.io/qrstudio/)
 
 **Small code. Endless possibilities.** A free, browser-based QR creator for website links and plain text, with custom colors and PNG/SVG exports.
 
